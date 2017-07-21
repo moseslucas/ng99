@@ -1,6 +1,6 @@
 # ng**99**
 
-For Basics of Angular. 
+For Fundamentals of Angular. 
 Please do see my [Google Slide](https://docs.google.com/presentation/d/17u1lRpvf1QNUb25V0pmEd22Rjn_LvMLpGZ0I-cjmG3M/edit#slide=id.p)
 
 ## Development server
