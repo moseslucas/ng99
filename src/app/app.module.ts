@@ -5,13 +5,15 @@ import { AppComponent } from './app.component';
 import { HelloWorldComponent } from './hello-world/hello-world.component';
 import { Hello99Component } from './hello99/hello99.component';
 import { Conditional99Component } from './conditional99/conditional99.component';
+import { Loop99Component } from './loop99/loop99.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HelloWorldComponent,
     Hello99Component,
-    Conditional99Component
+    Conditional99Component,
+    Loop99Component
   ],
   imports: [
     BrowserModule
