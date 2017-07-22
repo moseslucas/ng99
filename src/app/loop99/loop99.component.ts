@@ -26,9 +26,9 @@ export class Loop99Component implements OnInit {
     ];
 
     this.groceryList = [
-      {item: 'Vegetables'},
-      {item: 'Pork'},
-      {item: 'Flavorings'}
+      'Vegetables',
+      'Pork',
+      'Flavorings'
     ];
 
   }

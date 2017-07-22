@@ -11,7 +11,7 @@
 </ul>
 
 <ul class="ng99">
-  <li *ngFor="let grocery of groceryList">
-    {{grocery.item}}
-  </li>
+  <app-list *ngFor="let grocery of groceryList"
+            [list]="grocery">
+  </app-list>
 </ul>
